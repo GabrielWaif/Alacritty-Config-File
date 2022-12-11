@@ -1,8 +1,6 @@
 window:
   title: Alacritty
   padding:
-    x: 5
-    y: 5
     class:
       instance: Alacritty
       general: Alacritty
@@ -59,4 +57,4 @@ colors:
 # Configura o risco de digitacao do terminal
 cursor:
   style:
-    shape: Underline
+    shape: Block
